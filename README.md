@@ -36,7 +36,7 @@ The goal of this project was to transform raw IPL data into a clear and easy-to-
 
 ## Dashboard Preview
 
-![IPL Data Analysis Dashboard](./dashboard.png)
+![Screenshot 2026-09-09 212326.png]
 
 > Place your dashboard screenshot in the project root and name it `dashboard.png`.
 
