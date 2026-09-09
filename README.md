@@ -38,8 +38,6 @@ The goal of this project was to transform raw IPL data into a clear and easy-to-
 
 ![Screenshot%201.png]
 
-> Place your dashboard screenshot in the project root and name it `dashboard.png`.
-
 ---
 
 ## Key Business Questions
